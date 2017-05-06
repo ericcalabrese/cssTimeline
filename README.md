@@ -4,4 +4,4 @@ A responsive CSS timeline made with HTML and CSS. There are several events per y
 
 You can git clone this repo and click the link below to see it yourself:
 
-Timeline 
+https://csstimeline.surge.sh/ 
